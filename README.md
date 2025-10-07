@@ -1,6 +1,7 @@
 # Hi, I’m Shruti Farkya 👋
 **DevOps Engineer** • AWS • Docker • Kubernetes • CI/CD • Monitoring
 
+🎓 Studied **Computer Science & Engineering** at *Medi-Caps University, Indore*
 🔭 Currently: Building automation & deployment pipelines, monitoring solutions, and cloud-native apps.  
 📫 Reach me: shrutifarkya507@gmail.com | https://www.linkedin.com/in/shruti-farkya-46a31a30b  
 🔗 GitHub: https://github.com/shruti89041
