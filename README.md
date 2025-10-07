@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Shruti Farkya 👋
+**DevOps Engineer** • AWS • Docker • Kubernetes • CI/CD • Monitoring
 
-<!--
-**shruti89041/shruti89041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently: Building automation & deployment pipelines, monitoring solutions, and cloud-native apps.  
+📫 Reach me: shrutifarkya507@gmail.com | https://www.linkedin.com/in/shruti-farkya-46a31a30b  
+🔗 GitHub: https://github.com/shruti89041
 
-Here are some ideas to get you started:
+## Tech highlights
+**Cloud:** AWS, GCP, Azure · **Containers:** Docker, Kubernetes, Helm · **CI/CD:** Jenkins, GitHub Actions · **Monitoring:** Datadog, CloudWatch, Nagios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned projects
+- **strabl-backend-deploy** — Backend deployment on AWS (Ansible / user-data / monitoring).  
+- **static-site-aws-s3** — Static site + CI/CD (CodeDeploy / Route53 / GitHub Actions).  
+- **etl-s3-redshift** — Glue ETL → Redshift, CloudFormation templates.  
+- **dotnet-devsecops** — .NET app: Docker, K8s manifests, Jenkinsfile, SonarQube & Trivy.
+
+> 💡 Want me to walk through any project? Open an issue in the repo and I’ll add a demo or runbook.
+
